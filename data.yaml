@@ -1,0 +1,6 @@
+train: "opencv3/opencv3_1/yolov8/data/images/train/images"
+test: "opencv3/opencv3_1/yolov8/data/images/test/images"
+val: "opencv3/opencv3_1/yolov8/data/images/valid/images"
+
+nc: 2
+names: ['green_light', 'red_light']
